@@ -1,10 +1,10 @@
 ## Linux_Utility_Scripts
 Here are some scripts for linux based oses. (connectivity, speed testing, etc.)
 
-#Telnet_Batch_Check:
+# Telnet_Batch_Check:
   - Checks ip - port server list via ip-port.csv file and prints out connectivity status.
   
-#Usage
+# Usage
   - Copy code to your local environment.
   - Edit ip-port.csv list according to your needs.
   - Run telnet-test.sh
