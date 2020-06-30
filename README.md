@@ -13,6 +13,7 @@ Example output:
 
 ```sh
 $ cd Linux_Utility_Scripts/Telnet_Batch_Check/
+$ chmod +x telnet-test.sh
 $ ./telnet-test.sh
 $ Server -> 127.0.0.1 Port-> 22 accepting connections
 $ Server -> 127.0.0.1 Port-> 80 connections not possible
